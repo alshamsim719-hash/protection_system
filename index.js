@@ -296,4 +296,4 @@ client.on("guildMemberAdd", async (member) => {
   }
 });
 
-client.login(process.env.TOKEN);
+client.login(MTQxNzA1MDY0ODYyNDc1ODc4NA.GQ13j7.PrricnUe0lyu4mGNI-C-r5LOJy78y3zA1-7iOk);
